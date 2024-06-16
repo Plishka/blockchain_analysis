@@ -56,10 +56,12 @@ The analysis focused on several key metrics:
 
 ## Dashboard Preview
 
-[![Revenue Metrics Dashboard](https://raw.githubusercontent.com/Plishka/revenue_metrics/4217e1dca21b6016b629472839aad0a245b070d7/Revenue%20Metrics.png)](https://public.tableau.com/app/profile/oleksandr.plishka/viz/RevenueMetrics_17055101609680/Dashboard1){:target="_blank"}
+[![Dashboard Visualization](https://github.com/Plishka/blockchain_analysis/blob/main/dashboard_viz.png?raw=true)](https://public.tableau.com/app/profile/oleksandr.plishka/viz/CryptoAnalysis_17149200860940/Dashboard1)
+
+Click the image above to view the interactive Dashboard on Tableau's website.
 
 ## Conclusion
 
 This project demonstrates the power of blockchain analytics in uncovering investment opportunities and potential risks. The insights gained from analyzing transaction patterns, wallet activities, and token distributions can significantly inform stakeholders' investment strategies.
 
-For detailed SQL queries and further technical documentation, please refer to the [SQL File](link-to-your-sql-file.sql) in the repository.
+For detailed SQL queries and further technical documentation, please refer to the [SQL File](https://github.com/Plishka/blockchain_analysis/blob/main/final_table.sql) in the repository.
